@@ -7,3 +7,7 @@ You will use the methods to develop an activity that you will deploy with your c
 ### Serving the Project
 
 This piece is an independent webpage served through a local host. Download the HTML and CSS file and run the command: python -m http.server to serve the page. Open the link http://[::]:8000/ and navigate to the HTML file to read the webpage.
+
+### Dataset
+
+The original dataset is airline reviews. The source and its .csv file can be found [here](https://www.kaggle.com/datasets/chaudharyanshul/airline-reviews).
